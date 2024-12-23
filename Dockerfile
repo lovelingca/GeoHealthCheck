@@ -1,4 +1,4 @@
-FROM python:3.7-alpine 
+FROM python:3.14.0a1-alpine 
 
 # Thanks to http://www.sandtable.com/reduce-docker-image-sizes-using-alpine
 # FROM debian:jessie
